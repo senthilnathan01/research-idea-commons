@@ -8,7 +8,7 @@ A platform that discovers, cites, organizes, and shares public research, project
 
 The internet is full of valuable ideas that never become projects. Researchers, lab members, indie hackers, founders, and technical writers often publish questions or unfinished ideas in blogs, GitHub repos, newsletters, X posts, LinkedIn posts, or personal notes.
 
-This is especially visible in fast-moving areas like LLMs and AI research. People doing cutting-edge work in top labs or independent research often generate more ideas than they can personally execute. Some of those ideas may be genuine gems, but they are scattered, hard to find, and easy to forget.
+This pattern shows up wherever public discussion moves faster than individual execution capacity. People working near the edge of a field often generate more questions, project directions, and half-formed possibilities than they can personally pursue. Some of those ideas may be genuine gems, but they are scattered, hard to find, and easy to forget.
 
 At the same time, many students, builders, researchers, and early founders say they lack good project, research, or startup ideas. There may be a mismatch: some people have more ideas than time, while others have time, energy, and skill but need better ideas to work on.
 
